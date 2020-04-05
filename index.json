@@ -1,1 +1,8 @@
-{ "list": [{ "type": "pico8", "title": "Example", "file": "https://raw.githubusercontent.com/M0liusX/PICO8GAMES/master/Example/file/marballs2.p8.png", "shots": "https://raw.githubusercontent.com/M0liusX/PICO8GAMES/master/Example/shots/marballs2.p8.png" }]}
+{ "list":
+  [
+    { "type": "pico8", "title": "Pico8Example", "file": "https://raw.githubusercontent.com/M0liusX/GameShellGames/master/Example/file/marballs2.p8.png",
+      "shots": "https://raw.githubusercontent.com/M0liusX/GameShellGames/master/Example/shots/marballs2.p8.png" }
+    { "type": "pico8", "title": "GodotExample", "file": "https://raw.githubusercontent.com/M0liusX/GameShellGames/master/Example/file/marballs2.p8.png",
+      "shots": "https://raw.githubusercontent.com/M0liusX/GameShellGames/master/Example/shots/marballs2.p8.png" }
+  ]
+}
